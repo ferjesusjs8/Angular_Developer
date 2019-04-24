@@ -1,0 +1,13 @@
+npm i @angular/cli -g
+
+https://www.npmjs.com/package/@types/jquery
+
+npm install @types/jquery@2.0.42 --save-dev
+
+ng new myproj1
+
+ng generate component community/communityHelper
+
+ng g c myComponent --spec false
+
+ng g s myService --spec false
